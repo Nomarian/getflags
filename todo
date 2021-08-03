@@ -1,0 +1,9 @@
+
+exit 1 if too many args or too little args?
+print usage
+flagfmt not set check
+
+Shell Support
+ rc
+ tcsh
+ fish
